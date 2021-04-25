@@ -21,6 +21,6 @@ Follow the following steps to view the project :
 6. You can also click on website logo to go back to **Home page**.
 
 7. You can see the preview of this website here (some of features might not be visible.) 
-  __https://abhinavshilwant.github.io/e-commerce/__
+ __https://abhinavshilwant.github.io/e-commerce/__
 
 **Thank You!**
