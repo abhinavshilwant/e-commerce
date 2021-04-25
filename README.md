@@ -1,6 +1,6 @@
 ## E-Commerce
 
-**Creating a responsive e-commerce website using simple _HTML/CSS and JavaScript_*.
+**Creating a responsive e-commerce website using simple _HTML/CSS and JavaScript_**.
 
 A Simulation of client side e-commerce website with features like add to cart, proceed to checkout and payment options. It simulates a shopping cart within a website.
 
